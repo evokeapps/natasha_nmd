@@ -1,0 +1,66 @@
+title: Natasha Daniel | Resume
+description: >-
+  An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
+baseurl: ""
+url: ""
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# User details
+
+name: Natasha Daniel
+job_title: Legal Assistant | Paralegal
+description: An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
+address: London, W3
+phone: 07908 108 373
+email: natashamdaniel@outlook.com
+skills:
+  - category: Core
+    skills:
+      - Organised
+      - Proactive
+      - Resourceful
+      - Multi-tasking
+      - Adaptable
+      - Innovative
+      - Problem Solving
+      - Attention to Detail
+      - Time Management
+  - category: Legal
+    skills:
+      - Drafting legal service agreements
+      - Understanding of legal processes
+      - Research
+  - category: Technical
+    skills:
+      - MS Office
+      - Citrix
+      - iManage
+      - InterAction
+      - Blueprint
+      - Docusign
+navbar_items:
+  - name: Experience
+    link: "#experience"
+  - name: Education
+    link: "#education"
+  - name: Clients
+    link: "#clients"
+  - name: Skills
+    link: "#skills"
+  - name: Expertise
+    link: "#expertise"
+
+image: https://static.wixstatic.com/media/23e8ad88ae744df0bd7f5221f3d67b0e.jpg/v1/crop/x_90,y_275,w_2349,h_2350/fill/w_470,h_470,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/23e8ad88ae744df0bd7f5221f3d67b0e.jpg
+
+# Socials
+linkedin: https://www.linkedin.com/in/natasha-daniel-10837319a/
+twitter: https://twitter.com/natashamdaniel
+facebook: https://www.facebook.com/natashamdaniel
+instagram: https://www.instagram.com/natashamdaniel
+
+# About section
+about_title: Hello I'm Natasha
+about_description: I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
