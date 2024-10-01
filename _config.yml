@@ -8,8 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# User details
-
+# Profile
 name: Natasha Daniel
 job_title: Legal Assistant | Paralegal
 description: An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
@@ -63,4 +62,99 @@ instagram: https://www.instagram.com/natashamdaniel
 
 # About section
 about_title: Hello I'm Natasha
-about_description: I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.
+about_description: An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
+
+# Experience section
+experiences:
+  - title: Legal Assistant/Paralegal (Contract)
+    company: Maples Group, Cayman Islands/London
+    period: April 2019 – June 2024
+    duties:
+      - title: Administrative duties
+        items:
+          - Acted as the gateway and point of contact for the General Counsel and inhouse legal team
+          - Managed and organised email correspondence (100-120 emails daily)
+          - Organised and managed complex diaries across different time zones 
+          - Organised travels, flights and accommodations 
+          - Coordinated meetings and conference calls 
+          - Tracked and reconciled expenses 
+          - Maintained group structure chart 
+          - Prepared reports and presentations
+          - Maintained calendar for corporate events and filing deadlines
+          - Consulted with vice presidents and corporate service providers
+          - Created and implemented a comprehensive onboarding process for senior executives
+      - title: Drafting
+        items:
+          - Extensive range of service agreements, including fund administration agreements
+          - Supplements and amendment letters 
+          - New legal precedents for various entity types, including omnibus precedents
+      - title: Reviewing/updating
+        items:
+          - Conducted an initial review of comments received on service agreements from clients
+          - Provided detailed comparisons and notes for vice presidents explaining rationale for updates
+      - title: Legal research and Precedents
+        items:
+          - Conducted legal research as directed by senior members of the legal team 
+          - Maintained and updated existing precedents and firm policies
+      - title: Key Achievements
+        items:
+          - Established precedents for different types of entities, which enhanced efficiency and turnaround times
+          - Created a task monitoring system, resulting in expedited task turnaround times and precise board reports
+          - Updated expense report template to include specific categories for expenses, leading to quicker processing times
+
+  - title: Executive Assistant to Partner (Dispute Resolution) 
+    company: Walkers Global, Cayman Islands
+    period: Oct 2016 - Feb 2019
+    duties:
+      - items:
+          - Managed the partner's billing processes
+          - Drafted correspondence
+          - Arranged travel and meetings 
+          - Managed all inboxes, diaries, incoming communications
+          - Organised court bundles in both paper and electronic formats
+          - Proofread and collated witness statements 
+          - Transcribed trial hearings, delegated parts of the work where volume was high
+          - Conducted conflict searches prior to client onboarding
+          - Organised work permits for UK-based barristers
+  - title: Executive Assistant to Managing Partner (Corporate)(Temporary)
+    company: Campbells, Cayman Islands
+    period: Dec 2015 – Jul 2016
+    duties:
+      - items:
+          - Extensive diary management
+          - Coordination of agendas for onsite and offsite meetings
+          - Proactively managed email inbox identifying items that require urgent attention 
+          - Assisted with legal documentation 
+          - Managed expenses, ensuring compliant with company expense procedures
+  - title: PA to Corporate Secretariat Department (Contract) 
+    company: Cineworld Group Plc, London
+    period: Jan 2015 – Mar 2015
+    duties:
+      - title: General
+        items:
+          - Maintained statutory and non-statutory records for the group 
+          - Incorporation of new companies
+          - Filed relevant forms for appointments and terminations of officers and auditors 
+          - Assisted with preparing and filing of resolutions, annual returns and financial statements 
+          - Organised documents required for inspection for general meetings 
+          - Prepared share certificates 
+          - Maintained calendar for corporate events and filing deadlines
+          - Maintained group structure chart 
+          - Ensured corporate website is up to date with investor relations information 
+          - Maintained insider list 
+          - Organised meetings and conference calls 
+          - Organised travels, flights and accommodations
+      - title: Board meetings
+        items:
+          - Collated board/committee packs with supporting documentation 
+          - Consulted with auditors in relation to financial statements  
+          - Assisted in preparation and circulation of notice of meetings
+      - title: Key Achievements
+        items:
+          - Automated the calculation process for summarising issued share capital. This new system significantly reduced the time and effort required to compile this data, resulting in valuable time savings for the secretariat team
+  - title: Executive Assistant to Corporate, Litigation and Property Department 
+    company: Appleby, Bermuda
+    period: May 2009 - April 2012
+  - title: Legal Secretary 
+    company: Mayer Brown International / Eversheds / Clifford Chance / Piper Smith Watton / Butcher Burns 
+    period: April 2002 – Feb 2009
