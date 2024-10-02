@@ -41,16 +41,14 @@ skills:
       - Blueprint
       - Docusign
 navbar_items:
+  - name: About
+    link: "#about"
   - name: Experience
     link: "#experience"
-  - name: Education
-    link: "#education"
-  - name: Clients
-    link: "#clients"
-  - name: Skills
-    link: "#skills"
-  - name: Expertise
-    link: "#expertise"
+  - name: Certifications
+    link: "#certifications"
+  - name: Contact
+    link: "#contact"
 
 image: https://static.wixstatic.com/media/23e8ad88ae744df0bd7f5221f3d67b0e.jpg/v1/crop/x_90,y_275,w_2349,h_2350/fill/w_470,h_470,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/23e8ad88ae744df0bd7f5221f3d67b0e.jpg
 
@@ -63,6 +61,15 @@ instagram: https://www.instagram.com/natashamdaniel
 # About section
 about_title: Hello I'm Natasha
 about_description: An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
+
+# Certifications section
+certifications:
+  - title: Diploma in Law
+    institution: CILEx (Chartered Institute of Legal Executives)
+    completion: 2025
+  - title: Corporate Procedures
+    institution: Institute of Corporate Secretaries Association
+    completion: 2011
 
 # Experience section
 experiences:
