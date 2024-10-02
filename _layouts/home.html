@@ -8,6 +8,59 @@ layout: default
       class="py-5 md:py-10 bg-gray-50 flex justify-between items-center px-5 md:px-10"
     >
       <a href="/" class="text-4xl text-blue-900">{{site.name}}</a>
+      <div class="flex md:hidden" x-data="{ open: false }">
+        <button
+          type="button"
+          class="block md:hidden focus:outline-none"
+          @click="open = !open"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="size-8 fill-blue-800"
+            viewBox="0 0 448 448"
+          >
+            <path
+              style="fill-opacity: 1; stroke: none"
+              d="M0 636.362h448v64H0zm0 160h448v64H0zm0 160h448v64H0z"
+              transform="translate(0 -604.362)"
+            />
+          </svg>
+        </button>
+        <div
+          class="absolute top-0 left-0 w-screen h-screen bg-gray-50"
+          x-show="open"
+          x-transition
+        >
+          <div
+            class="flex flex-col items-center justify-center h-full space-y-10"
+          >
+            <button
+              type="button"
+              class="absolute top-0 right-0 p-2 focus:outline-none"
+              @click="open = false"
+            >
+              <svg
+                viewBox="-6 -6 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+                preserveAspectRatio="xMinYMin"
+                class="size-16 fill-blue-800"
+              >
+                <path
+                  d="m7.314 5.9 3.535-3.536A1 1 0 1 0 9.435.95L5.899 4.485 2.364.95A1 1 0 1 0 .95 2.364l3.535 3.535L.95 9.435a1 1 0 1 0 1.414 1.414l3.535-3.535 3.536 3.535a1 1 0 1 0 1.414-1.414L7.314 5.899z"
+                />
+              </svg>
+            </button>
+            {% for item in site.navbar_items %}
+            <a
+              href="{{ item.link }}"
+              @click="open = false"
+              class="text-blue-900 hover:text-blue-600 text-4xl"
+              >{{ item.name }}</a
+            >
+            {% endfor %}
+          </div>
+        </div>
+      </div>
       <div class="flex items-center gap-4 hidden md:flex">
         {% for item in site.navbar_items %}
         <a href="{{ item.link }}" class="text-blue-900 hover:text-blue-600"

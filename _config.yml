@@ -1,7 +1,7 @@
 title: Natasha Daniel | Resume
 description: >-
   An exceptionally organised and highly driven individual with years of experience in legal and corporate environments supporting legal professionals.  The ability to exercise judgement, multi-task, prioritise and problem solve, my professionalism, reliability and people skills allow me to work independently and as part of a team.
-baseurl: "natasha_nmd"
+baseurl: "/natasha_nmd"
 url: ""
 plugins:
   - jekyll-feed
