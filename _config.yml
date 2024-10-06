@@ -50,7 +50,7 @@ navbar_items:
   - name: Contact
     link: "#contact"
 
-image: https://static.wixstatic.com/media/23e8ad88ae744df0bd7f5221f3d67b0e.jpg/v1/crop/x_90,y_275,w_2349,h_2350/fill/w_470,h_470,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/23e8ad88ae744df0bd7f5221f3d67b0e.jpg
+image: "./profile.jpg"
 
 # Socials
 linkedin: https://www.linkedin.com/in/natasha-daniel-10837319a/
